@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Lab4_wphone" EntryPointType="Lab4_wphone.App" RuntimeVersion="6.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Lab4_wphone" Source="Lab4_wphone.dll" />
+  </Deployment.Parts>
+</Deployment>

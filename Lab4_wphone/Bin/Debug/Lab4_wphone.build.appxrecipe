@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-B88L67M</Machine>
+    <WindowsUser>Tolol</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>65ddee1b-da9b-460a-981e-8d82dc96fc0c</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Bin\Debug\Lab4_wphone.dll">
+      <PackagePath>Lab4_wphone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\add.png">
+      <PackagePath>add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\delete.png">
+      <PackagePath>delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\next.png">
+      <PackagePath>next.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\add.png">
+      <PackagePath>Resources\Image\add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\back.png">
+      <PackagePath>Resources\Image\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\basecircle.png">
+      <PackagePath>Resources\Image\basecircle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\cancel.png">
+      <PackagePath>Resources\Image\cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\check.png">
+      <PackagePath>Resources\Image\check.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\close.png">
+      <PackagePath>Resources\Image\close.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\delete.png">
+      <PackagePath>Resources\Image\delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\download.png">
+      <PackagePath>Resources\Image\download.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\edit.png">
+      <PackagePath>Resources\Image\edit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\favs.addto.png">
+      <PackagePath>Resources\Image\favs.addto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\favs.png">
+      <PackagePath>Resources\Image\favs.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\feature.alarm.png">
+      <PackagePath>Resources\Image\feature.alarm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\feature.calendar.png">
+      <PackagePath>Resources\Image\feature.calendar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\feature.camera.png">
+      <PackagePath>Resources\Image\feature.camera.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\feature.email.png">
+      <PackagePath>Resources\Image\feature.email.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\feature.phone.png">
+      <PackagePath>Resources\Image\feature.phone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\feature.search.png">
+      <PackagePath>Resources\Image\feature.search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\feature.settings.png">
+      <PackagePath>Resources\Image\feature.settings.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\feature.video.png">
+      <PackagePath>Resources\Image\feature.video.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\folder.png">
+      <PackagePath>Resources\Image\folder.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\like.png">
+      <PackagePath>Resources\Image\like.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\microphone.png">
+      <PackagePath>Resources\Image\microphone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\minus.png">
+      <PackagePath>Resources\Image\minus.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\new.png">
+      <PackagePath>Resources\Image\new.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\next.png">
+      <PackagePath>Resources\Image\next.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\overflowdots.png">
+      <PackagePath>Resources\Image\overflowdots.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\questionmark.png">
+      <PackagePath>Resources\Image\questionmark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\refresh.png">
+      <PackagePath>Resources\Image\refresh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\save.png">
+      <PackagePath>Resources\Image\save.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\share.png">
+      <PackagePath>Resources\Image\share.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\stop.png">
+      <PackagePath>Resources\Image\stop.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\sync.png">
+      <PackagePath>Resources\Image\sync.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\transport.ff.png">
+      <PackagePath>Resources\Image\transport.ff.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\transport.pause.png">
+      <PackagePath>Resources\Image\transport.pause.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\transport.play.png">
+      <PackagePath>Resources\Image\transport.play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\transport.rew.png">
+      <PackagePath>Resources\Image\transport.rew.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Resources\Image\upload.png">
+      <PackagePath>Resources\Image\upload.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\tolol\documents\visual studio 2015\Projects\Lab4_wphone\Lab4_wphone\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
